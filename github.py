@@ -2,4 +2,4 @@
 
 print('reba——')
 
-print("githup修改内容")
+print("githup 修改内容")
